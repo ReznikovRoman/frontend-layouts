@@ -18,7 +18,7 @@ https://reznikov-newsgrid.netlify.app/
 <img src='demo_pictures/home_page_2.png' alt='NewsGrid | Home Page[2]'>
 
 <p align='center'>3 - About Page</p>
-<img src='demo_pictures/about_page.png' alt='NewsGrid | About Page[2]'>
+<img src='demo_pictures/about_page.png' alt='NewsGrid | About Page'>
 
 <p align='center'>4 - Article Page</p>
 <img src='demo_pictures/article_page.png' alt='NewsGrid | Article Page'>
