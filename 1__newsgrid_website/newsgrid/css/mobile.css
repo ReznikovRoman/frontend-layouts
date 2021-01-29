@@ -38,8 +38,12 @@
         grid-template-columns: 1fr;
     }
 
+    #main-nav a {
+        text-align: center;
+    }
+
     #showcase .showcase-container {
-        height: 70vh;
+        height: 100vh;
     }
 
     #main-footer .footer-container > *:last-child {
@@ -62,5 +66,15 @@
 
     .l-heading {
         font-size: 2rem;
+    }
+}
+
+@media screen and (max-height: 570px){
+    #showcase .showcase-container {
+        height: 80vh;
+    }
+
+    #showcase .showcase-container a.btn {
+        display: none;
     }
 }

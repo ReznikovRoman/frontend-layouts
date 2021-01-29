@@ -262,6 +262,10 @@ h1, h2, h3, h4, h5, h6 {
 #showcase .showcase-content {
     z-index: 1;
 }
+#showcase .showcase-content a {
+    color: #fff;
+}
+
 
 #showcase .showcase-content p {
     margin-bottom: 1rem;
